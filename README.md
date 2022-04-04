@@ -16,3 +16,22 @@
 *Вариант 21: f(x) = 4^x, [0, 2]*
 
 *Лабораторная работа была выполнена на языке программирования Kotlin с использованием UI фреймворка Compose Multiplatform*
+
+
+# Примеры результатов выполнения программы:
+*y = sin(x)*
+
+количество точек разбиения: 300
+
+пределы: [-3; 5]
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/91731881/161592450-b7439304-76cd-4f87-b1ca-4cbaf18243b9.png">
+
+*y = 4^x*
+
+количество точек разбиения: 10
+
+пределы: [0; 2]
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/91731881/161594950-58c904fb-c243-4eb0-bd67-af22166f51e8.png">
+
