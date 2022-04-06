@@ -12,7 +12,7 @@ fun main() = application {
 
     val result = calculateSumByRectangles(
         func = func,
-        limits = -3f to 2f,
+        limits = 0f to 2f,
         nCount = 10 + 1,
         psiSelectionWay = PsiSelectionWay.MIDDLE
     )
